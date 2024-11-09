@@ -9,7 +9,7 @@ In this part you will learn:
 
 ## **Activation Functions**
 
-![1*ZafDv3VUm60Eh10OeJu1vw.webp](https://prod-files-secure.s3.us-west-2.amazonaws.com/a2c22923-37af-46ad-ae9c-a8f61e62a637/a6e63626-f796-46ef-bbe7-fe019c65b3fb/1ZafDv3VUm60Eh10OeJu1vw.webp)
+![alt text](Images/1_ZafDv3VUm60Eh10OeJu1vw.webp)
 
 1. The sigmoid function, where x is the value of weighted sums, is used in logistic regression. It's smooth and very useful for the output layer when predicting probabilities. 
 2. The tanh function, which goes below 0, is another activation function.
